@@ -5,3 +5,7 @@ Datum: 11.05.2021
 Pre veľa ľudí je pes najlepším priateľom.
 Je to múdre stvorenie.
 Vie sa veľa naučiť.
+----
+Pes sa vyvinul z vlka.
+Vie byť nielen priateľom ale aj ochrancom.
+Tiež vie aj prejavovať city.
